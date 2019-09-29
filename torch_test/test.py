@@ -20,6 +20,7 @@ width=80
 height=80
 
 
+
 class DeepNetWork(nn.Module):
     def __init__(self):
         super(DeepNetWork, self).__init__()
