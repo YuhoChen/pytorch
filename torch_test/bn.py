@@ -39,3 +39,4 @@ def playFlappyBird():
 
 if __name__ == '__main__':
     playFlappyBird()
+    print('hello')
